@@ -10970,3 +10970,11 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+#pdfContainer  textarea {
+	width : 100%;
+	}
+
+#pdfContainer .result {
+	height: 100vh;
+}
